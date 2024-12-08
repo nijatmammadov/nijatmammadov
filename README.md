@@ -4,9 +4,13 @@ I'm Nijat from Azerbaijan, an entry-level Data Scientist and Machine Learning En
 
 Skills: Machine Learning / Deep Learning / Natural Language Processing/ Computer Vision
 
-#### Technical Skills
+
+### Technical Skills
 <img src="https://github.com/user-attachments/assets/9c0ba88a-4027-42ad-bcd5-9e04f1ad6922" alt="torch" width="200">
 <img src="https://github.com/user-attachments/assets/f8b17d83-b923-409f-81a6-8594844dc660" alt="torch" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="torch" width="200">
+<img src="https://github.com/user-attachments/assets/f8b17d83-b923-409f-81a6-8594844dc660" alt="torch" width="200">
+
 <!-- ![image](https://github.com/user-attachments/assets/f8b17d83-b923-409f-81a6-8594844dc660) -->
 
 - 📫 How to reach me: nijat.mmmadov@gmail.com 
