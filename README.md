@@ -6,7 +6,7 @@ Skills: Machine Learning / Deep Learning / Natural Language Processing/ Computer
 
 
 ### Technical Skills
-<img src="![image](https://github.com/user-attachments/assets/809bf0d1-6b08-4492-b704-01595254ebb0)" width="200">
+<img src="https://github.com/user-attachments/assets/809bf0d1-6b08-4492-b704-01595254ebb0" width="200">
 <img src="https://github.com/user-attachments/assets/f8b17d83-b923-409f-81a6-8594844dc660" alt="torch" width="200">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="torch" width="200">
 <img src="https://github.com/user-attachments/assets/f8b17d83-b923-409f-81a6-8594844dc660" alt="torch" width="200">
