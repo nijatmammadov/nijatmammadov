@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0372e2b3-934d-410c-9571-a56cf09861c6)### Hi there 👋, Nijat Mammadov
+### Hi there 👋, Nijat Mammadov
 #### Data Science and Machine Learning
 I'm Nijat from Azerbaijan, an entry-level Data Scientist and Machine Learning Engineer with a passion for coding and a keen interest in Natural Language Processing (NLP). I am enthusiastic about leveraging NLP techniques to solve real-world problems and have developed several individual projects in this domain.
 
