@@ -14,8 +14,8 @@ Skills: Machine Learning / Deep Learning / Natural Language Processing/ Computer
 
 
   
-  <img src="https://github.com/user-attachments/assets/809bf0d1-6b08-4492-b704-01595254ebb0" alt="torch" width="50">
-  <img src="https://github.com/user-attachments/assets/f8b17d83-b923-409f-81a6-8594844dc660" alt="tf" width="50">
+  <img src="https://github.com/user-attachments/assets/809bf0d1-6b08-4492-b704-01595254ebb0" alt="torch" width="100">
+  <img src="https://github.com/user-attachments/assets/f8b17d83-b923-409f-81a6-8594844dc660" alt="tf" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="50">
   <img src="https://github.com/user-attachments/assets/5da95d38-3883-4799-9aa3-cbc03a565cc6" alt="cv2" width="50">
   
@@ -27,7 +27,7 @@ Skills: Machine Learning / Deep Learning / Natural Language Processing/ Computer
   <img src="https://github.com/user-attachments/assets/c7189c36-0f23-4605-bc20-d90d2a51f5c4" alt="plt" width="50">
 
   
-  <img src="https://github.com/user-attachments/assets/7d74e2a4-45f4-4a4b-a9d3-c6dd30e04665" alt="sns" width="200">
+  <img src="https://github.com/user-attachments/assets/7d74e2a4-45f4-4a4b-a9d3-c6dd30e04665" alt="sns" width="72">
 
 </div>
 
