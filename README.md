@@ -17,6 +17,7 @@ Skills: Machine Learning / Deep Learning / Natural Language Processing/ Computer
   <img src="https://github.com/user-attachments/assets/809bf0d1-6b08-4492-b704-01595254ebb0" alt="torch" width="200">
   <img src="https://github.com/user-attachments/assets/f8b17d83-b923-409f-81a6-8594844dc660" alt="tf" width="200">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="200">
+  <img src="https://github.com/user-attachments/assets/6a40856a-304e-43f1-9532-7ca4333e7593" alt="cv2" width="200">
   
 
   <!-- Row 2 -->
@@ -24,6 +25,8 @@ Skills: Machine Learning / Deep Learning / Natural Language Processing/ Computer
   <img src="https://github.com/user-attachments/assets/673c4838-f2a7-4532-ae0e-7d9c0506463a" alt='numpy' width="200">
   <img src="https://github.com/user-attachments/assets/d8b6e0e6-be84-4f54-a0fb-db38f90afd6d" alt="pandas" width="200">
   <img src="https://github.com/user-attachments/assets/c7189c36-0f23-4605-bc20-d90d2a51f5c4" alt="plt" width="200">
+
+  
   <img src="https://github.com/user-attachments/assets/7d74e2a4-45f4-4a4b-a9d3-c6dd30e04665" alt="sns" width="200">
 
 </div>
