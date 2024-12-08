@@ -24,10 +24,10 @@ Skills: Machine Learning / Deep Learning / Natural Language Processing/ Computer
   <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="od" width="50">
   <img src="https://github.com/user-attachments/assets/673c4838-f2a7-4532-ae0e-7d9c0506463a" alt='numpy' width="100">
   <img src="https://github.com/user-attachments/assets/d8b6e0e6-be84-4f54-a0fb-db38f90afd6d" alt="pandas" width="100">
-  <img src="https://github.com/user-attachments/assets/c7189c36-0f23-4605-bc20-d90d2a51f5c4" alt="plt" width="50">
+  <img src="https://github.com/user-attachments/assets/c7189c36-0f23-4605-bc20-d90d2a51f5c4" alt="plt" width="150">
 
   
-  <img src="https://github.com/user-attachments/assets/7d74e2a4-45f4-4a4b-a9d3-c6dd30e04665" alt="sns" width="72">
+  <img src="https://github.com/user-attachments/assets/7d74e2a4-45f4-4a4b-a9d3-c6dd30e04665" alt="sns" width="142">
 
 </div>
 
