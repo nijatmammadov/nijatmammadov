@@ -1,4 +1,4 @@
-### Hi there 👋, Nijat Mammadov
+![image](https://github.com/user-attachments/assets/0372e2b3-934d-410c-9571-a56cf09861c6)### Hi there 👋, Nijat Mammadov
 #### Data Science and Machine Learning
 I'm Nijat from Azerbaijan, an entry-level Data Scientist and Machine Learning Engineer with a passion for coding and a keen interest in Natural Language Processing (NLP). I am enthusiastic about leveraging NLP techniques to solve real-world problems and have developed several individual projects in this domain.
 
@@ -6,7 +6,7 @@ Skills: Machine Learning / Deep Learning / Natural Language Processing/ Computer
 
 
 ### Technical Skills
-<img src="https://github.com/user-attachments/assets/9c0ba88a-4027-42ad-bcd5-9e04f1ad6922" alt="torch" width="200">
+<img src="![image](https://github.com/user-attachments/assets/809bf0d1-6b08-4492-b704-01595254ebb0)" width="200">
 <img src="https://github.com/user-attachments/assets/f8b17d83-b923-409f-81a6-8594844dc660" alt="torch" width="200">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="torch" width="200">
 <img src="https://github.com/user-attachments/assets/f8b17d83-b923-409f-81a6-8594844dc660" alt="torch" width="200">
