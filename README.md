@@ -10,10 +10,14 @@ Skills: Machine Learning / Deep Learning / Natural Language Processing/ Computer
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
   <!-- Row 1 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="py" width="200">
+
+
+  
   <img src="https://github.com/user-attachments/assets/809bf0d1-6b08-4492-b704-01595254ebb0" alt="torch" width="200">
   <img src="https://github.com/user-attachments/assets/f8b17d83-b923-409f-81a6-8594844dc660" alt="tf" width="200">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="200">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="py" width="200">
+  
 
   <!-- Row 2 -->
   <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="od" width="200">
