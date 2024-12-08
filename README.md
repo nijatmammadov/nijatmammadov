@@ -29,6 +29,8 @@ Skills: Machine Learning / Deep Learning / Natural Language Processing/ Computer
   
   <img src="https://github.com/user-attachments/assets/7d74e2a4-45f4-4a4b-a9d3-c6dd30e04665" alt="sns" width="142">
 
+  <img src="https://github.com/user-attachments/assets/d416e5a5-3b3a-4475-a013-d007ddbb5375" alt="sns" width="142">
+
 </div>
 
 
