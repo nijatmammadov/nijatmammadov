@@ -15,3 +15,5 @@ Skills: Machine Learning / Deep Learning / Natural Language Processing/ Computer
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nijatmammadov)  
 
+![image](https://github.com/user-attachments/assets/9c0ba88a-4027-42ad-bcd5-9e04f1ad6922)
+
