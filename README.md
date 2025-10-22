@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Nijat Mammadov
 #### Data Science and Machine Learning Engineer
 
-### Technical Skills
 
 <!-- ![image](https://github.com/user-attachments/assets/f8b17d83-b923-409f-81a6-8594844dc660) -->
 
