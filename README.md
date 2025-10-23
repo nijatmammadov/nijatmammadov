@@ -10,10 +10,6 @@
 - 📫 How to reach me: nijat.mmmadov@gmail.com 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijatmammadov)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nijatmammadov&show_icons=true)  
-
 
 
 
