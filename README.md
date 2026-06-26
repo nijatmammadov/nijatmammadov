@@ -1,4 +1,4 @@
-### Hi there 👋, I am Nijat Mammadov
+### Hi there 👋, I am Nijat
 #### Machine Learning Engineer
 
 
